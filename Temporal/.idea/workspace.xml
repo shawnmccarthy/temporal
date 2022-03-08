@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50b5cb7f-3f3a-4565-a9fe-83a7e8c73985" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tft.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mccarthy-shawn_slides.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../mccarthy-shawn_slides.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$mccarthy-shawn_slides.pptx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +67,8 @@
       <workItem from="1645936948333" duration="457000" />
       <workItem from="1645937483417" duration="2357000" />
       <workItem from="1645976018299" duration="2151000" />
+      <workItem from="1646584124660" duration="36000" />
+      <workItem from="1646584451721" duration="5769000" />
     </task>
     <servers />
   </component>
