@@ -1,0 +1,121 @@
+﻿sector,etf,company,company_name
+Energy,ELE,XOM,Exxon Mobil Corp
+Energy,ELE,CVX,Chevron Corp
+Energy,ELE,COP,ConocoPhillips
+Energy,ELE,EOG,EOG Resources Inc
+Energy,ELE,SLB,Schlumberger Ltd
+Energy,ELE,MPC,Marathon Petroleum Corp
+Energy,ELE,PXD,Pioneer Natural Resources Co
+Energy,ELE,PSX,Phillips 66
+Energy,ELE,KMI,Kinder Morgan Inc Class P
+Energy,ELE,WMB,Williams Companies Inc
+Gold Miners,GDX,NEM,Newmont Corp
+Gold Miners,GDX,ABX.TO,Barrick Gold Corp
+Gold Miners,GDX,FNV.TO,Franco-Nevada Corp
+Gold Miners,GDX,WPM.TO,Wheaton Precious Metals Corp
+Gold Miners,GDX,NCM.AX,Newcrest Mining Ltd
+Gold Miners,GDX,AEM.TO,Agnico Eagle Mines Ltd
+Gold Miners,GDX,KL.TO,Kirkland Lake Gold Ltd
+Gold Miners,GDX,NST.AX,Northern Star Resources Ltd
+Gold Miners,GDX,K.TO,Kinross Gold Corp
+Gold Miners,GDX,GFI.JO,Gold Fields Ltd ADR
+Materials,XLE,LIN.L,Linde PLC
+Materials,XLE,SHW,Sherwin-Williams Co
+Materials,XLE,APD,Air Products & Chemicals Inc
+Materials,XLE,FCX,Freeport-McMoRan Inc
+Materials,XLE,ECL,Ecolab Inc
+Materials,XLE,NEM,Newmont Corp
+Materials,XLE,DD,DuPont de Nemours Inc
+Materials,XLE,DOW,Dow Inc
+Materials,XLE,PPG,PPG Industries Inc
+Materials,XLE,IFF,International Flavors & Fragrances Inc
+Industrials,DIA,UNH,UnitedHealth Group Inc
+Industrials,DIA,GS,Goldman Sachs Group Inc
+Industrials,DIA,HD,The Home Depot Inc
+Industrials,DIA,MSFT,Microsoft Corp
+Industrials,DIA,CRM,Salesforce.com Inc
+Industrials,DIA,MCD,McDonald's Corp
+Industrials,DIA,HON,Honeywell International Inc
+Industrials,DIA,V,Visa Inc Class A
+Industrials,DIA,AMGN,Amgen Inc
+Industrials,DIA,BA,Boeing Co
+Consumer Discretionary,XLY,AMZN,Amazon.com Inc
+Consumer Discretionary,XLY,TSLA,Tesla Inc
+Consumer Discretionary,XLY,HD,The Home Depot Inc
+Consumer Discretionary,XLY,NKE,Nike Inc Class B
+Consumer Discretionary,XLY,MCD,McDonald's Corp
+Consumer Discretionary,XLY,LOW,Lowe's Companies Inc
+Consumer Discretionary,XLY,SBUX,Starbucks Corp
+Consumer Discretionary,XLY,TGT,Target Corp
+Consumer Discretionary,XLY,BKNG,Booking Holdings Inc
+Consumer Discretionary,XLY,TJX,TJX Companies Inc
+Consumer Staples,XLP,PG,Procter & Gamble Co
+Consumer Staples,XLP,KO,Coca-Cola Co
+Consumer Staples,XLP,PEP,PepsiCo Inc
+Consumer Staples,XLP,WMT,Walmart Inc
+Consumer Staples,XLP,COST,Costco Wholesale Corp
+Consumer Staples,XLP,PM,Philip Morris International Inc
+Consumer Staples,XLP,MDLZ,Mondelez International Inc Class A
+Consumer Staples,XLP,MO,Altria Group Inc
+Consumer Staples,XLP,EL,The Estee Lauder Companies Inc Class A
+Consumer Staples,XLP,CL,Colgate-Palmolive Co
+Health Care,XLV,JNJ,Johnson & Johnson
+Health Care,XLV,UNH,UnitedHealth Group Inc
+Health Care,XLV,PFE,Pfizer Inc
+Health Care,XLV,ABT,Abbott Laboratories
+Health Care,XLV,ABBV,AbbVie Inc
+Health Care,XLV,TMO,Thermo Fisher Scientific Inc
+Health Care,XLV,MRK,Merck & Co Inc
+Health Care,XLV,LLY,Eli Lilly and Co
+Health Care,XLV,DHR,Danaher Corp
+Health Care,XLV,MDT,Medtronic PLC
+Financials,XLF,BRK.B,Berkshire Hathaway Inc Class B
+Financials,XLF,JPM,JPMorgan Chase & Co
+Financials,XLF,BAC,Bank of America Corp
+Financials,XLF,WFC,Wells Fargo & Co
+Financials,XLF,C,Citigroup Inc
+Financials,XLF,MS,Morgan Stanley
+Financials,XLF,GS,Goldman Sachs Group Inc
+Financials,XLF,BLK,BlackRock Inc
+Financials,XLF,SCHW,Charles Schwab Corp
+Financials,XLF,AXP,American Express Co
+Technology,XLK,AAPL,Apple Inc
+Technology,XLK,MSFT,Microsoft Corp
+Technology,XLK,NVDA,NVIDIA Corp
+Technology,XLK,V,Visa Inc Class A
+Technology,XLK,PYPL,PayPal Holdings Inc
+Technology,XLK,MA,Mastercard Inc A
+Technology,XLK,ADBE,Adobe Inc
+Technology,XLK,INTC,Intel Corp
+Technology,XLK,CRM,Salesforce.com Inc
+Technology,XLK,CSCO,Cisco Systems Inc
+Telecommunication,IYZ,CSCO,Cisco Systems Inc
+Telecommunication,IYZ,VZ,Verizon Communications Inc
+Telecommunication,IYZ,GRMN,Garmin Ltd
+Telecommunication,IYZ,MSI,Motorola Solutions Inc
+Telecommunication,IYZ,ANET,Arista Networks Inc
+Telecommunication,IYZ,T,AT&T Inc
+Telecommunication,IYZ,TMUS,T-Mobile US Inc
+Telecommunication,IYZ,LUMN,Lumen Technologies Inc Ordinary Shares
+Telecommunication,IYZ,FFIV,F5 Networks Inc
+Telecommunication,IYZ,LBTYK.L,Liberty Global PLC C
+Utilities,XLU,NEE,NextEra Energy Inc
+Utilities,XLU,DUK,Duke Energy Corp
+Utilities,XLU,SO,Southern Co
+Utilities,XLU,D,Dominion Energy Inc
+Utilities,XLU,EXC,Exelon Corp
+Utilities,XLU,AEP,American Electric Power Co Inc
+Utilities,XLU,SRE,Sempra Energy
+Utilities,XLU,XEL,Xcel Energy Inc
+Utilities,XLU,AWK,American Water Works Co Inc
+Utilities,XLU,PEG,Public Service Enterprise Group Inc
+Real estate,VNQ,VRTPX,Vanguard Real Estate II Index
+Real estate,VNQ,AMT,American Tower Corp
+Real estate,VNQ,PLD,Prologis Inc
+Real estate,VNQ,CCI,Crown Castle International Corp
+Real estate,VNQ,EQIX,Equinix Inc
+Real estate,VNQ,PSA,Public Storage
+Real estate,VNQ,DLR,Digital Realty Trust Inc
+Real estate,VNQ,SPG,Simon Property Group Inc
+Real estate,VNQ,SBAC,SBA Communications Corp
+Real estate,VNQ,WELL,Welltower Inc

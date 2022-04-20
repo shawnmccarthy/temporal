@@ -1,0 +1,13 @@
+﻿sector,clause
+Energy,"(exxon OR chevron OR conoco OR ""eog resources"" OR ""Schlumberger"" OR ""Marathon Petroleum"" OR ""Pioneer Natural Resources"" OR Phillips OR ""Kinder Morgan"" OR ""Williams Companies"")"
+Gold Miners,"(Newmont OR ""Barrick Gold"" OR ""Franco-Nevada"" OR ""Wheaton Precious Metals"" OR ""Newcrest Mining"" OR ""Agnico Eagle Mines"" OR ""Kirkland Lake Gold"" OR ""Northern Star Resources"" OR ""Kinross Gold"" OR ""Gold Fields"")"
+Materials,"(Linde OR Sherwin-Williams OR ""Air Products & Chemicals"" OR ""Freeport-McMoRan"" OR ""Ecolab"" OR ""Newmont"" OR ""DuPont de Nemours"" OR DOW OR ""PPG Industries"" OR ""International Flavors & Fragrances"")"
+Industrials,"(""UnitedHealth Group"" OR ""Goldman Sachs"" OR ""Home Depot"" OR ""Microsoft"" OR Salesforce OR ""McDonald's"" OR ""Honeywell International"" OR ""Visa"" OR Amgen OR Boeing)"
+Consumer Discretionary,"(""Amazon.com"" OR Tesla OR ""Home Depot"" OR Nike OR ""McDonald's"" OR ""Lowe's"" OR Starbucks OR Target OR ""Booking Holdings"" OR ""TJX Companies"")"
+Consumer Staples,"(""Procter & Gamble"" OR ""Coca-Cola"" OR ""PepsiCo"" OR Walmart OR ""Costco Wholesale"" OR ""Philip Morris International"" OR ""Mondelez International"" OR ""Altria Group"" OR ""Estee Lauder Companies"" OR ""Colgate-Palmolive"")"
+Health Care,"(""Johnson & Johnson"" OR ""UnitedHealth Group"" OR Pfizer OR ""Abbott Laboratories"" OR AbbVie OR ""Thermo Fisher Scientific"" OR ""Merck & Co"" OR ""Eli Lilly"" OR ""Danaher"" OR ""Medtronic"")"
+Financials,"(""Berkshire Hathaway"" OR ""JPMorgan Chase"" OR ""Bank of America"" OR ""Wells Fargo"" OR ""Citigroup"" OR ""Morgan Stanley"" OR ""BlackRock"" OR ""Charles Schwab"" OR ""American Express"")"
+Technology,"(Apple OR Microsoft OR Apple OR Nvidia OR Visa OR PayPal OR Mastercard OR Adobe OR Intel OR Salesforce OR ""Cisco Systems"")"
+Telecommunications,"(""Cisco Systems"" OR ""Verizon Communications"" OR Garmin OR ""Motorola Solutions"" OR ""Arista Networks"" OR ""AT&T"" OR ""T-Mobile"" OR ""Lumen Technologies"" OR ""F5 Networks"" OR ""Liberty Global"")"
+Utilities,"(""NextEra Energy"" OR ""Duke Energy"" OR ""Southern Co"" OR ""Dominion Energy"" OR Exelon OR ""American Electric Power"" OR ""Sempra Energy"" OR ""Xcel Energy"" OR ""American Water Works"" OR ""Public Service Enterprise"")"
+Real estate,"(""Vanguard Real Estate"" OR ""American Tower"" OR ""Prologis"" OR ""Crown Castle International"" OR Equinix OR ""Public Storage"" OR ""Digital Realty Trust"" OR ""Simon Property Group"" OR ""SBA Communications"" OR Welltower)"
